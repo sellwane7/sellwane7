@@ -3,9 +3,12 @@
 <img src="joyce.jpg" width="280" style="border-radius: 12px;" alt="Joyce Sellwane Mosia"/>
 
 # Hi, I'm Joyce Sellwane Mosia 👋
-### Software Developer | Johannesburg, South Africa
 
-I'm a motivated, technically grounded developer with a Diploma in ICT: Applications Development (Cum Laude) and an Advanced Diploma in ICT: Applications Development from Walter Sisulu University. I build full-stack applications, AI-powered tools, and cybersecurity-focused software — and I care about clean, maintainable code and responsible AI development.
+### Welcome to my GitHub! Take a look around and feel free to explore my work 🚀
+
+### Software Developer | South Africa
+
+I'm a motivated, technically grounded developer with a Diploma in ICT: Applications Development (Cum Laude) and an Advanced Diploma in ICT: Applications Development. I build full-stack applications, AI-powered tools, and cybersecurity-focused software — and I care about clean, maintainable code and responsible AI development.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/joyce-sellwane-mosia)
 [![Portfolio](https://img.shields.io/badge/Portfolio-1e90ff?style=for-the-badge&logo=googlechrome&logoColor=white)](https://joycemosia.com)
@@ -46,6 +49,12 @@ I also spent time as a **Student Mentor for Human-Computer Interaction** at Walt
 | [HexSoftwares_Movie_Database](https://github.com/sellwane7/HexSoftwares_Movie_Database) | Program to manage a movie database |
 | [HexSoftwares_Leave_Management_System](https://github.com/sellwane7/HexSoftwares_Leave_Management_System) | Employee leave management system |
 | [OceanIQ-Chatbot](https://github.com/sellwane7/OceanIQ-Chatbot) | AI chatbot on marine life & sustainability |
+
+### 📂 Explore All My Repositories
+
+[![View All Repos](https://img.shields.io/badge/View_All_Repositories-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sellwane7?tab=repositories)
+
+Browse the full list — each one is clickable straight from the repositories page, with live descriptions and languages.
 
 ### 🌱 Beyond the Code
 
