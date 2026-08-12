@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://github.com/sellwane7.png" width="150" style="border-radius: 50%;" alt="Joyce Sellwane Mosia"/>
+<img src="https://github.com/joyce.jpg" width="150" style="border-radius: 50%;" alt="Joyce Sellwane Mosia"/>
 
 # Hi, I'm Joyce Sellwane Mosia 👋
 ### Software Developer | Johannesburg, South Africa
