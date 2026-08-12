@@ -8,9 +8,9 @@
 
 ### Software Developer | South Africa
 
-I'm a motivated, technically grounded developer with a Diploma in ICT: Applications Development (Cum Laude) and an Advanced Diploma in ICT: Applications Development. I build full-stack applications, AI-powered tools, and cybersecurity-focused software — and I care about clean, maintainable code and responsible AI development.
+I'm a full-stack developer passionate about building AI-powered tools and cybersecurity-focused software. I care about clean, maintainable code, thoughtful user experience, and responsible AI development.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/joyce-sellwane-mosia)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joyce-sellwane-mosia-4593aa2b9)
 [![Portfolio](https://img.shields.io/badge/Portfolio-1e90ff?style=for-the-badge&logo=googlechrome&logoColor=white)](https://joycemosia.com)
 
 </div>
@@ -21,8 +21,6 @@ I'm a motivated, technically grounded developer with a Diploma in ICT: Applicati
 
 Currently an **End-to-End Technology Intern at Capaciti (UVU Africa)**, contributing to full-stack applications across the entire SDLC — from design and development through to testing and deployment — while strengthening my skills in software development, application security, and industry best practices through mentorship and hands-on projects.
 
-I also spent time as a **Student Mentor for Human-Computer Interaction** at Walter Sisulu University, supporting fellow students with UX research, documentation, and user-centered design principles.
-
 ### 🛠️ Tech Stack
 
 **Languages:** ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![VB.NET](https://img.shields.io/badge/VB.NET-5C2D91?style=flat-square&logo=dotnet&logoColor=white) ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
@@ -31,7 +29,7 @@ I also spent time as a **Student Mentor for Human-Computer Interaction** at Walt
 
 **Data & Tools:** ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
-### 📌 Featured Projects
+### 📌 Projects
 
 | Project | Description |
 |---|---|
@@ -41,14 +39,6 @@ I also spent time as a **Student Mentor for Human-Computer Interaction** at Walt
 | [Minetrax](https://github.com/sellwane7/mintrax-ai) | Mining safety intelligence platform |
 | [DeskFlow](https://github.com/sellwane7/deskflow) | Internal IT service request portal |
 
-### 💼 More of My Work
-
-| Project | Description |
-|---|---|
-| [HexSoftwares_Library_Management_System](https://github.com/sellwane7/HexSoftwares_Library_Management_System) | Library management system built in Java |
-| [HexSoftwares_Movie_Database](https://github.com/sellwane7/HexSoftwares_Movie_Database) | Program to manage a movie database |
-| [HexSoftwares_Leave_Management_System](https://github.com/sellwane7/HexSoftwares_Leave_Management_System) | Employee leave management system |
-| [OceanIQ-Chatbot](https://github.com/sellwane7/OceanIQ-Chatbot) | AI chatbot on marine life & sustainability |
 
 ### 📂 Explore All My Repositories
 
@@ -56,9 +46,6 @@ I also spent time as a **Student Mentor for Human-Computer Interaction** at Walt
 
 Browse the full list — each one is clickable straight from the repositories page, with live descriptions and languages.
 
-### 🌱 Beyond the Code
-
-Hackathons, cybersecurity, and continuous learning keep me curious — always looking for the next problem worth solving.
 
 <div align="center">
 
