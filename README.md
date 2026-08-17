@@ -6,39 +6,53 @@
 
 ## 👩‍💻 About Me
 
-I'm an aspiring Software Developer based in Johannesburg, South Africa 🇿🇦.
+I'm an aspiring Software Developer based in Johannesburg, South Africa.
 
-I am passionate about building software that solves real-world problems and continuously expanding my knowledge in software development, cloud technologies, and modern web applications.
+I am passionate about building software that solves real-world problems and continuously expanding my knowledge in software development, cybersecurity, and modern web applications.
 
-Currently, I am strengthening my skills through hands-on projects in Java, Python, web development, and database systems while growing my experience with industry best practices and version control.
+Currently, I am strengthening my skills through hands-on projects in Kotlin, Python, web development, and database systems while growing my experience with industry best practices and version control.
 
 🌱 Currently Learning:
-- Java & Object-Oriented Programming
+- Kotlin & Object-Oriented Programming
 - Spring Boot
 - Full Stack Development
 - Database Management
-- Cloud Computing Fundamentals
 - Software Engineering Best Practices
 
 🎯 Career Goal:
-To become a highly skilled Full Stack Software Developer and Cloud Engineer who creates innovative and impactful technology solutions.
+To become a highly skilled Full Stack Developer who creates innovative and impactful technology solutions.
 
 ---
 
 ## 🛠️ Technical Skills
-
+2
+ 
+3
 ### Programming Languages
-![Java](https://img.shields.io/badge/Java-ED8e=for-the-badge&logo=openjdk&logoColor=white
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python=white
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-
-tend Technologies
-![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5r=white
-![CSS3](https://img.shieldse/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white
-
+4
+ 
+5
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+6
+(https://img.shields.io/bn-3776AB?style=for-the-badge&logo=python&logoColor=white
+7
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor
+8
+### Frontend Technologies
+9
+ 
+10
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5r=white
+11
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoite
+12
+ 
+13
 ### Tools & Technologies
-![Git](https://img.shields.io/badge/Git-Ftyle=for-the-badge&logo=git&logoColor=white
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&b&logoColor=white
+14
+ 
+15
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=[GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=oColor=white
 
 ---
 
