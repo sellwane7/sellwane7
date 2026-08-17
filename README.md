@@ -147,70 +147,39 @@ https://github.com/sellwane7/my-portfolio
 
 ## 📚 Areas of Interest
 
-- Software Development
-- Full Stack Engineering
-- Artificial Intelligence
-- Cloud Computing
-- Database Systems
-- Application Design
-- User Experience
+  Software Development
+  Full Stack Engineering
+  Artificial Intelligence
+  Cloud Computing
+  Database Systems
+  Application Design
+  User Experience
 
 ---
 
 ## 🎓 Professional Development
-120
- 
-121
+
 I believe in continuous learning and practical experience. Every project I build is an opportunity to improve my technical capabilities, strengthen problem-solving skills, and prepare for real-world software development environments.
-122
- 
-123
+
 ---
-124
- 
-125
+
 ## 📫 Connect With Me
-126
- 
-127
+
 📍 Johannesburg, South Africa
-128
- 
-129
-📧 Email: your-email@example.com
-130
- 
-131
-💼 LinkedIn: https://linkedin.com/in/your-linkedin-profile
-132
- 
-133
+📧 Email: sellwanemosia708@gmail.com
+💼 LinkedIn: https://www.linkedin.com/in/joyce-sellwane-mosia-4593aa2b9/
 🐙 GitHub: https://github.com/sellwane7
-134
- 
-135
+
 ---
-136
- 
-137
+
 ## ✨ Fun Fact
-138
- 
-139
+
 I enjoy turning ideas into working software and challenging myself to learn new technologies through hands-on development projects.
-140
- 
-141
+
 ---
-142
- 
-143
+
 ### 💡 Motto
-144
- 
-145
+
 > "Success is built one commit at a time."
-146
- 
-147
+
 ⭐ Feel free to explore my repositories and follow my development journey!
