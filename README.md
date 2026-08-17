@@ -58,30 +58,53 @@ To become a highly skilled Full Stack Developer who creates innovative and impac
 
 ## 🚀 Featured Projects
 
-### 📚 Library Management System
-A Java-based application designed to simplify library operations, including managing books, borrowers, and lending activities.
+### ⛏️ MineTrax AI
+An AI-powered mining intelligence platform designed to analyze mining data, improve operational visibility, and support data-driven decision-making.
 
 🔗 Repository:
-https://github.com/sellwane7/HexSoftwares_Library_Management_System
+https://github.com/sellwane7/MineTrax-AI
 
 ---
 
-### 🎬 Movie Database Management System
-A Java application that manages movie records and allows efficient storage, retrieval, and organization of movie information.
+### 📊 BizIntel AI
+A business intelligence solution leveraging AI and analytics to transform data into actionable insights for organizations and stakeholders.
 
 🔗 Repository:
-https://github.com/sellwane7/HexSoftwares_Movie_Database
+https://github.com/sellwane7/BizIntel_AI
 
 ---
 
-### 📝 Leave Management System
-An employee leave management application that streamlines leave requests, approvals, and record keeping.
+### 💼 DeskFlow
+A modern productivity and workflow management application designed to streamline tasks, improve organization, and enhance workplace efficiency.
 
 🔗 Repository:
-https://github.com/sellwane7/HexSoftwares_Leave_Management_System
+https://github.com/sellwane7/DeskFlow
 
 ---
 
+### ✍️ Content Generator
+An AI-driven content creation tool that helps generate professional, engaging, and structured content for various use cases.
+
+🔗 Repository:
+https://github.com/sellwane7/content-generator
+
+---
+
+### 🌊 OceanIQ Chatbot
+An intelligent chatbot focused on marine life education, sustainable fishing awareness, and environmental conservation.
+
+🔗 Repository:
+https://github.com/sellwane7/OceanIQ-Chatbot
+
+---
+
+### 🌐 Personal Portfolio Website
+A professional portfolio showcasing my projects, technical skills, achievements, and continuous learning journey.
+
+🔗 Repository:
+https://github.com/sellwane7/my-portfolio
+
+---
 ### 🌊 OceanIQ Chatbot
 A web-based AI chatbot focused on marine life education, sustainable fishing awareness, and environmental conservation.
 
