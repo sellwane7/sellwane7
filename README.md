@@ -2,53 +2,124 @@
 
 <img src="joyce.jpg" width="280" style="border-radius: 12px;" alt="Joyce Sellwane Mosia"/>
 
-# Hi, I'm Joyce Sellwane Mosia 👋
+# Hi there 👋, I'm Joyce Sellwane Mosia
 
-### Welcome to my GitHub! Take a look around and feel free to explore my work 🚀
+## 👩‍💻 About Me
 
-### Software Developer | South Africa
+I'm an aspiring Software Developer based in Johannesburg, South Africa 🇿🇦.
 
-I'm a full-stack developer passionate about building AI-powered tools and cybersecurity-focused software. I care about clean, maintainable code, thoughtful user experience, and responsible AI development.
+I am passionate about building software that solves real-world problems and continuously expanding my knowledge in software development, cloud technologies, and modern web applications.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joyce-sellwane-mosia-4593aa2b9)
-[![Portfolio](https://img.shields.io/badge/Portfolio-1e90ff?style=for-the-badge&logo=googlechrome&logoColor=white)](https://joycemosia.com)
+Currently, I am strengthening my skills through hands-on projects in Java, Python, web development, and database systems while growing my experience with industry best practices and version control.
 
-</div>
+🌱 Currently Learning:
+- Java & Object-Oriented Programming
+- Spring Boot
+- Full Stack Development
+- Database Management
+- Cloud Computing Fundamentals
+- Software Engineering Best Practices
+
+🎯 Career Goal:
+To become a highly skilled Full Stack Software Developer and Cloud Engineer who creates innovative and impactful technology solutions.
 
 ---
 
-### 🚀 About Me
+## 🛠️ Technical Skills
 
-Currently an **End-to-End Technology Intern at Capaciti (UVU Africa)**, contributing to full-stack applications across the entire SDLC — from design and development through to testing and deployment — while strengthening my skills in software development, application security, and industry best practices through mentorship and hands-on projects.
+### Programming Languages
+![Java](https://img.shields.io/badge/Java-ED8e=for-the-badge&logo=openjdk&logoColor=white
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python=white
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### 🛠️ Tech Stack
+tend Technologies
+![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5r=white
+![CSS3](https://img.shieldse/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white
 
-**Languages:** ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![VB.NET](https://img.shields.io/badge/VB.NET-5C2D91?style=flat-square&logo=dotnet&logoColor=white) ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+### Tools & Technologies
+![Git](https://img.shields.io/badge/Git-Ftyle=for-the-badge&logo=git&logoColor=white
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&b&logoColor=white
 
-**Web:** ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+---
 
-**Data & Tools:** ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+## 🚀 Featured Projects
 
-### 📌 Projects
+### 📚 Library Management System
+A Java-based application designed to simplify library operations, including managing books, borrowers, and lending activities.
 
-| Project | Description |
-|---|---|
-| [NexGen Studio](https://github.com/sellwane7/nex-gen-studio) | AI content generator |
-| [BizIntel AI](https://github.com/sellwane7/Bizintelai) | AI-powered business dashboard |
-| [CyberSage](https://github.com/sellwane7/CyberSage) | Municipal integrity platform |
-| [Minetrax](https://github.com/sellwane7/mintrax-ai) | Mining safety intelligence platform |
-| [DeskFlow](https://github.com/sellwane7/deskflow) | Internal IT service request portal |
+🔗 Repository:
+https://github.com/sellwane7/HexSoftwares_Library_Management_System
 
+---
 
-### 📂 Explore All My Repositories
+### 🎬 Movie Database Management System
+A Java application that manages movie records and allows efficient storage, retrieval, and organization of movie information.
 
-[![View All Repos](https://img.shields.io/badge/View_All_Repositories-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sellwane7?tab=repositories)
+🔗 Repository:
+https://github.com/sellwane7/HexSoftwares_Movie_Database
 
-Browse the full list — each one is clickable straight from the repositories page, with live descriptions and languages.
+---
 
+### 📝 Leave Management System
+An employee leave management application that streamlines leave requests, approvals, and record keeping.
 
-<div align="center">
+🔗 Repository:
+https://github.com/sellwane7/HexSoftwares_Leave_Management_System
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=sellwane7&show_icons=true&theme=default)
+---
 
-</div>
+### 🌊 OceanIQ Chatbot
+A web-based AI chatbot focused on marine life education, sustainable fishing awareness, and environmental conservation.
+
+🔗 Repository:
+https://github.com/sellwane7/OceanIQ-Chatbot
+
+---
+
+### 🌐 Personal Portfolio Website
+A personal portfolio showcasing my projects, technical skills, learning journey, and professional growth.
+
+🔗 Repository:
+https://github.com/sellwane7/my-portfolio
+
+---
+
+## 📈 GitHub Statistics
+
+![Joyce's GitHub Stats](https://github-readme-stats.vercelne7&show_icons=true&theme=tokyonight
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sellwane7&eme=tokyonight
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sellwane7
+
+---
+
+## 🏆 Achievements & Growth
+
+✅ Developed multiple Java applications
+
+✅ Built web development projects using HTML and CSS
+
+✅ Gained practical Git and GitHub experience
+
+✅ Created software solutions for business and educational scenarios
+
+✅ Continuously improving skills through project-based learning
+
+---
+
+## 📚 Areas of Interest
+
+- Software Development
+- Full Stack Engineering
+- Artificial Intelligence
+- Cloud Computing
+- Database Systems
+- Application Design
+- User Experience
+
+---
+
+## 🎓 Professional Development
+
+I believe in continuous learning and practical experience. Every project
