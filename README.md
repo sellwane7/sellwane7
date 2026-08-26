@@ -10,14 +10,14 @@
 
 I'm a Software Developer based in Braamfontein, Johannesburg, currently interning through the Capaciti End to End Technology Programme.
 
-I like building things that actually solve a problem rather than just look good in a demo. Most of my time lately has gone into full-stack projects and AI integration — usually under real deadlines, since a lot of my work comes out of weekly capstone and sprint cycles rather than side projects done at my own pace.
+I like building things that actually solve a problem for the people using them. My focus lately has been full-stack development and AI integration, working across the full project lifecycle from planning and architecture through to deployment and documentation.
 
 Right now I'm working on:
-- Kotlin and object-oriented programming
-- Spring Boot
-- Full stack development end to end
-- Wiring AI APIs (Groq, Anthropic, Ollama/LangChain) into actual products
-- Getting better at database design and general engineering practice
+* Kotlin and object-oriented programming
+* Spring Boot
+* Full stack development end to end
+* Wiring AI APIs (Groq, Anthropic, Ollama/LangChain) into actual products
+* Getting better at database design and general engineering practice
 
 My goal is pretty simple: become a Full Stack Developer good enough to build things people actually rely on.
 
@@ -31,7 +31,7 @@ My goal is pretty simple: become a Full Stack Developer good enough to build thi
 
 **Backend & Databases:** Node.js, Spring Boot, MongoDB, MySQL
 
-**Tools & Platforms:** Git, GitHub, Docker, Vercel, Render
+**Tools & Platforms:** Git, GitHub, Docker, VS Code, Vercel, Render, Windows (WSL2)
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -43,36 +43,35 @@ My goal is pretty simple: become a Full Stack Developer good enough to build thi
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 
 ---
 
 ## Projects
 
-**OpenEx 3.0** — a simulated crypto exchange I built as a three-week capstone. Kotlin/Spring Boot backend with a double-entry ledger and a proper price-time-priority matching engine, a React frontend with live order books over WebSockets, and a Python AI trading assistant ("Candle") running on LangChain and Ollama, with Groq as an optional fallback. Runs in Docker, deployed on Render and Vercel.
-🔗 https://github.com/sellwane7/openex3 · 🌐 https://openex3.vercel.app
+**OpenEx 3.0**: a simulated crypto exchange built as a three week capstone. Kotlin/Spring Boot backend with a double entry ledger and a price time priority matching engine, a React frontend with live order books over WebSockets, and a Python AI trading assistant ("Candle") running on LangChain and Ollama, with Groq as an optional fallback. Runs in Docker, deployed on Render and Vercel.
+🔗 https://github.com/sellwane7/openex3
 
-**CyberSage** — an AI governance tool for South African municipalities, built for the Naspers Labs Tech Career Accelerator Challenge. Came with a full pitch deck and speaker script, not just code.
+**CyberSage**: an AI governance tool for South African municipalities, built for the Naspers Labs Tech Career Accelerator Challenge, with a full pitch deck and speaker script alongside the build.
+🔗 (add your repo link here)
 
-**SAPS iLodge** — a ticket management system for SAPS, built over several sprints. Node.js/Express and MySQL backend, vanilla JS frontend, with a Groq LLM handling ticket routing and an AI chatbot on top.
+**SAPS iLodge**: a ticket management system for SAPS, built over several sprints. Node.js/Express and MySQL backend, vanilla JS frontend, with a Groq LLM handling ticket routing and an AI chatbot on top.
+🔗 (add your repo link here)
 
-**DeskFlow** — an internal IT service request portal. Node.js/Express and MongoDB on the backend, React on the frontend, JWT auth, deployed on Render and Vercel.
+**DeskFlow**: an internal IT service request portal. Node.js/Express and MongoDB on the backend, React on the frontend, JWT auth, deployed on Render and Vercel.
+🔗 (add your repo link here)
 
-**HarvestMind AI** — a mining safety platform built in Streamlit, aligned with MHSA compliance. Combines the Groq API with K-Means clustering, logistic regression and Q-Learning, plus PDF/Word report export.
+**HarvestMind AI**: a mining safety platform built in Streamlit, aligned with MHSA compliance. Combines the Groq API with K-Means clustering, logistic regression and Q-Learning, plus PDF/Word report export.
+🔗 (add your repo link here)
 
-**NexGen Studio** — an AI content generation tool, built as plain HTML/CSS/JS using the Anthropic API.
+**NexGen Studio**: an AI content generation tool, built as plain HTML/CSS/JS using the Anthropic API.
+🔗 (add your repo link here)
 
-**OceanIQ Chatbot** — a chatbot focused on marine life education and sustainable fishing awareness.
+**OceanIQ Chatbot**: a chatbot focused on marine life education and sustainable fishing awareness.
 🔗 https://github.com/sellwane7/OceanIQ-Chatbot
 
-**Personal Portfolio** — where I showcase all of the above properly, with a bit more design polish.
-🌐 https://sellwane7.github.io/personalportfolio
-
----
-
-## GitHub Stats
-
-![Joyce's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sellwane7&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sellwane7&layout=compact&theme=tokyonight)
+**Personal Portfolio**: where I showcase all of the above properly, with a bit more design polish.
+🔗 https://github.com/sellwane7/my-portfolio
 
 ---
 
