@@ -2,184 +2,88 @@
 
 <img src="joyce.jpg" width="280" style="border-radius: 12px;" alt="Joyce Sellwane Mosia"/>
 
-# Hi there 👋, I'm Joyce Sellwane Mosia
+# Hi, I'm Joyce Sellwane Mosia 👋
 
-## 👩‍💻 About Me
+</div>
 
-I'm an aspiring Software Developer based in Johannesburg, South Africa.
+## About Me
 
-I am passionate about building software that solves real-world problems and continuously expanding my knowledge in software development, cybersecurity, and modern web applications.
+I'm a Software Developer based in Braamfontein, Johannesburg, currently interning through the Capaciti End to End Technology Programme.
 
-Currently, I am strengthening my skills through hands-on projects in Kotlin, Python, web development, and database systems while growing my experience with industry best practices and version control.
+I like building things that actually solve a problem rather than just look good in a demo. Most of my time lately has gone into full-stack projects and AI integration — usually under real deadlines, since a lot of my work comes out of weekly capstone and sprint cycles rather than side projects done at my own pace.
 
-🌱 Currently Learning:
-- Kotlin & Object-Oriented Programming
+Right now I'm working on:
+- Kotlin and object-oriented programming
 - Spring Boot
-- Full Stack Development
-- Database Management
-- Software Engineering Best Practices
+- Full stack development end to end
+- Wiring AI APIs (Groq, Anthropic, Ollama/LangChain) into actual products
+- Getting better at database design and general engineering practice
 
-🎯 Career Goal:
-To become a highly skilled Full Stack Developer who creates innovative and impactful technology solutions.
-
----
-
-## 🛠️ Technical Skills
-2
- 
-3
-### Programming Languages
-4
- 
-5
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-6
-(https://img.shields.io/bn-3776AB?style=for-the-badge&logo=python&logoColor=white
-7
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor
-8
-### Frontend Technologies
-9
- 
-10
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5r=white
-11
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoite
-12
- 
-13
-### Tools & Technologies
-14
- 
-15
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=[GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=oColor=white
+My goal is pretty simple: become a Full Stack Developer good enough to build things people actually rely on.
 
 ---
 
-## 🚀 Featured Projects
+## Skills
 
-### ⛏️ MineTrax AI
-An AI-powered mining intelligence platform designed to analyze mining data, improve operational visibility, and support data-driven decision-making.
+**Languages:** Java, Python, Kotlin, JavaScript, SQL
 
-🔗 Repository:
-https://github.com/sellwane7/MineTrax-AI
+**Frontend:** React, HTML5, CSS3
 
----
+**Backend & Databases:** Node.js, Spring Boot, MongoDB, MySQL
 
-### 📊 BizIntel AI
-A business intelligence solution leveraging AI and analytics to transform data into actionable insights for organizations and stakeholders.
+**Tools & Platforms:** Git, GitHub, Docker, Vercel, Render
 
-🔗 Repository:
-https://github.com/sellwane7/BizIntel_AI
-
----
-
-### 💼 DeskFlow
-A modern productivity and workflow management application designed to streamline tasks, improve organization, and enhance workplace efficiency.
-
-🔗 Repository:
-https://github.com/sellwane7/DeskFlow
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 ---
 
-### ✍️ Content Generator
-An AI-driven content creation tool that helps generate professional, engaging, and structured content for various use cases.
+## Projects
 
-🔗 Repository:
-https://github.com/sellwane7/content-generator
+**OpenEx 3.0** — a simulated crypto exchange I built as a three-week capstone. Kotlin/Spring Boot backend with a double-entry ledger and a proper price-time-priority matching engine, a React frontend with live order books over WebSockets, and a Python AI trading assistant ("Candle") running on LangChain and Ollama, with Groq as an optional fallback. Runs in Docker, deployed on Render and Vercel.
+🔗 https://github.com/sellwane7/openex3 · 🌐 https://openex3.vercel.app
 
----
+**CyberSage** — an AI governance tool for South African municipalities, built for the Naspers Labs Tech Career Accelerator Challenge. Came with a full pitch deck and speaker script, not just code.
 
-### 🌊 OceanIQ Chatbot
-An intelligent chatbot focused on marine life education, sustainable fishing awareness, and environmental conservation.
+**SAPS iLodge** — a ticket management system for SAPS, built over several sprints. Node.js/Express and MySQL backend, vanilla JS frontend, with a Groq LLM handling ticket routing and an AI chatbot on top.
 
-🔗 Repository:
-https://github.com/sellwane7/OceanIQ-Chatbot
+**DeskFlow** — an internal IT service request portal. Node.js/Express and MongoDB on the backend, React on the frontend, JWT auth, deployed on Render and Vercel.
 
----
+**HarvestMind AI** — a mining safety platform built in Streamlit, aligned with MHSA compliance. Combines the Groq API with K-Means clustering, logistic regression and Q-Learning, plus PDF/Word report export.
 
-### 🌐 Personal Portfolio Website
-A professional portfolio showcasing my projects, technical skills, achievements, and continuous learning journey.
+**NexGen Studio** — an AI content generation tool, built as plain HTML/CSS/JS using the Anthropic API.
 
-🔗 Repository:
-https://github.com/sellwane7/my-portfolio
+**OceanIQ Chatbot** — a chatbot focused on marine life education and sustainable fishing awareness.
+🔗 https://github.com/sellwane7/OceanIQ-Chatbot
 
----
-### 🌊 OceanIQ Chatbot
-A web-based AI chatbot focused on marine life education, sustainable fishing awareness, and environmental conservation.
-
-🔗 Repository:
-https://github.com/sellwane7/OceanIQ-Chatbot
+**Personal Portfolio** — where I showcase all of the above properly, with a bit more design polish.
+🌐 https://sellwane7.github.io/personalportfolio
 
 ---
 
-### 🌐 Personal Portfolio Website
-A personal portfolio showcasing my projects, technical skills, learning journey, and professional growth.
+## GitHub Stats
 
-🔗 Repository:
-https://github.com/sellwane7/my-portfolio
-
----
-
-## 📈 GitHub Statistics
-
-![Joyce's GitHub Stats](https://github-readme-stats.vercelne7&show_icons=true&theme=tokyonight
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sellwane7&eme=tokyonight
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sellwane7
+![Joyce's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sellwane7&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sellwane7&layout=compact&theme=tokyonight)
 
 ---
 
-## 🏆 Achievements & Growth
-
-✅ Developed multiple Java applications
-
-✅ Built web development projects using HTML and CSS
-
-✅ Gained practical Git and GitHub experience
-
-✅ Created software solutions for business and educational scenarios
-
-✅ Continuously improving skills through project-based learning
-
----
-
-## 📚 Areas of Interest
-
-  Software Development
-  Full Stack Engineering
-  Artificial Intelligence
-  Cloud Computing
-  Database Systems
-  Application Design
-  User Experience
-
----
-
-## 🎓 Professional Development
-
-I believe in continuous learning and practical experience. Every project I build is an opportunity to improve my technical capabilities, strengthen problem-solving skills, and prepare for real-world software development environments.
-
----
-
-## 📫 Connect With Me
+## Get In Touch
 
 📍 Johannesburg, South Africa
-📧 Email: sellwanemosia708@gmail.com
-💼 LinkedIn: https://www.linkedin.com/in/joyce-sellwane-mosia-4593aa2b9/
-🐙 GitHub: https://github.com/sellwane7
+📧 sellwanemosia708@gmail.com
+💼 [LinkedIn](https://www.linkedin.com/in/joyce-sellwane-mosia-4593aa2b9/)
+🐙 [GitHub](https://github.com/sellwane7)
+🌐 [Portfolio](https://sellwane7.github.io/personalportfolio)
 
 ---
 
-## ✨ Fun Fact
-
-I enjoy turning ideas into working software and challenging myself to learn new technologies through hands-on development projects.
-
----
-
-### 💡 Motto
-
-> "Success is built one commit at a time."
-
-⭐ Feel free to explore my repositories and follow my development journey!
+Success is built one commit at a time.
