@@ -50,28 +50,25 @@ My goal is pretty simple: become a Full Stack Developer good enough to build thi
 ## Projects
 
 **OpenEx 3.0**: a simulated crypto exchange built as a three week capstone. Kotlin/Spring Boot backend with a double entry ledger and a price time priority matching engine, a React frontend with live order books over WebSockets, and a Python AI trading assistant ("Candle") running on LangChain and Ollama, with Groq as an optional fallback. Runs in Docker, deployed on Render and Vercel.
-🔗 https://github.com/sellwane7/openex3
+🔗 https://github.com/sellwane7/openex3.git
 
 **CyberSage**: an AI governance tool for South African municipalities, built for the Naspers Labs Tech Career Accelerator Challenge, with a full pitch deck and speaker script alongside the build.
 🔗 (add your repo link here)
 
-**SAPS iLodge**: a ticket management system for SAPS, built over several sprints. Node.js/Express and MySQL backend, vanilla JS frontend, with a Groq LLM handling ticket routing and an AI chatbot on top.
-🔗 (add your repo link here)
-
 **DeskFlow**: an internal IT service request portal. Node.js/Express and MongoDB on the backend, React on the frontend, JWT auth, deployed on Render and Vercel.
-🔗 (add your repo link here)
+🔗 https://github.com/sellwane7/deskflow.git
 
-**HarvestMind AI**: a mining safety platform built in Streamlit, aligned with MHSA compliance. Combines the Groq API with K-Means clustering, logistic regression and Q-Learning, plus PDF/Word report export.
-🔗 (add your repo link here)
+**MineTrax AI**: a mining safety platform built in Streamlit, aligned with MHSA compliance. Combines the Groq API with K-Means clustering, logistic regression and Q-Learning, plus PDF/Word report export.
+🔗 https://github.com/sellwane7/Minetrax-ai.git
 
 **NexGen Studio**: an AI content generation tool, built as plain HTML/CSS/JS using the Anthropic API.
-🔗 (add your repo link here)
+🔗 https://github.com/sellwane7/content-generator.git
 
 **OceanIQ Chatbot**: a chatbot focused on marine life education and sustainable fishing awareness.
-🔗 https://github.com/sellwane7/OceanIQ-Chatbot
+🔗 https://github.com/sellwane7/OceanIQ-Chatbot.git
 
-**Personal Portfolio**: where I showcase all of the above properly, with a bit more design polish.
-🔗 https://github.com/sellwane7/my-portfolio
+**BizIntgel AI**: BizIntel AI is a full-stack AI-powered business analytics platform that enables users to upload structured datasets and instantly generate.
+🔗 https://github.com/sellwane7/bizintel_ai.git
 
 ---
 
