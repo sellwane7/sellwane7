@@ -54,7 +54,9 @@ My goal is to become a Full Stack Developer whose work people can rely on.
 ### CyberSage
 **What it is:** A tool that helps South African municipalities make their spending and decisions more open and honest.
 
-**Why I built it:** I made it for the Naspers Labs Tech Career Accelerator Challenge. It uses AI to help spot problems and keep records clear. Alongside the build, I put together a full pitch deck and a speaker script to present the idea.
+**Why we built it:** This was a group project that my team and I created for the Naspers Labs Tech Career Accelerator Challenge. It uses AI to help spot problems and keep records clear. Alongside the build, we put together a full pitch deck and a speaker script to present the idea.
+
+**My part:** I worked with my team on the build, the pitch deck and the speaker script.
 
 <!-- Add the CyberSage repository link here -->
 
