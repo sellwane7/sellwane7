@@ -28,11 +28,11 @@ My goal is to become a Full Stack Developer whose work people can rely on.
 
 ## Skills
 
-**Languages:** Java, Python, Kotlin, JavaScript, SQL
+**Languages:** Java, Python, Kotlin, JavaScript, SQL, VB.NET
 
-**Frontend:** React, HTML5, CSS3
+**Frontend:** React, HTML, CSS
 
-**Backend and databases:** Node.js, Spring Boot, MongoDB, MySQL
+**Backend and databases:** Node.js, Spring Boot, MongoDB Atlas, MySQL
 
 **Tools and platforms:** Git, GitHub, Docker, VS Code, Vercel, Render, Windows (WSL2)
 
