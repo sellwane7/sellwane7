@@ -10,19 +10,21 @@
 
 ## About Me
 
-I'm a Software Developer Intern based in Braamfontein, Johannesburg. I'm doing my internship through the Capaciti End to End Technology Programme, and I graduated with an Advanced Diploma in ICT in Applications Development in May 2026.
+I’m a Software Developer Intern based in Braamfontein, Johannesburg. I’m currently on the Capaciti End to End Technology Programme, and I graduated with an Advanced Diploma in ICT in Applications Development in May 2026.
+
+I’m now looking for a placement where I can apply the skills I’ve built over the past 6 months of the programme, and keep growing in a real team and a real working environment.
 
 I like building software that solves a real problem for the people using it. I work on a project from the first plan right through to getting it online and writing it up, so I understand every stage and not just the coding.
 
-What I'm focusing on at the moment:
+What I’m focusing on at the moment:
 
-- Kotlin and object-oriented programming
-- Spring Boot
-- Building full stack applications from start to finish
-- Connecting AI services (Groq, Anthropic, Ollama and LangChain) to real products
-- Database design and good engineering habits
+Kotlin and object-oriented programming
+Spring Boot
+Building full stack applications from start to finish
+Connecting AI services (Groq, Anthropic, Ollama and LangChain) to real products
+Database design and good engineering habits
 
-My goal is to become a Full Stack Developer whose work people can rely on.
+My goal is to become a Full Stack Developer whose work people can rely on. I’m ready to bring my skills, my work ethic and my willingness to learn to a company that gives me the chance to contribute.
 
 ---
 
