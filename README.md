@@ -18,11 +18,11 @@ I like building software that solves a real problem for the people using it. I w
 
 What I’m focusing on at the moment:
 
-Kotlin and object-oriented programming
-Spring Boot
-Building full stack applications from start to finish
-Connecting AI services (Groq, Anthropic, Ollama and LangChain) to real products
-Database design and good engineering habits
+- Kotlin and object-oriented programming
+- Spring Boot
+- Building full stack applications from start to finish
+- Connecting AI services (Groq, Ollama and LangChain) to real products
+- Database design and good engineering habits
 
 My goal is to become a Full Stack Developer whose work people can rely on. I’m ready to bring my skills, my work ethic and my willingness to learn to a company that gives me the chance to contribute.
 
