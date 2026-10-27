@@ -12,7 +12,7 @@
 
 I’m a Software Developer Intern based in Braamfontein, Johannesburg. I’m currently on the Capaciti End to End Technology Programme, and I graduated with an Advanced Diploma in ICT in Applications Development in May 2026.
 
-I’m now looking for a placement where I can apply the skills I’ve built over the past 6 months of the programme, and keep growing in a real team and a real working environment.
+I am now looking for a placement where I can apply the skills I’ve built over the past 6 months of the programme, and keep growing in a real team and a real working environment.
 
 I like building software that solves a real problem for the people using it. I work on a project from the first plan right through to getting it online and writing it up, so I understand every stage and not just the coding.
 
